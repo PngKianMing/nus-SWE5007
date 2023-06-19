@@ -1,0 +1,31 @@
+{
+  "name": "simple-login-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-vue-dropdowns": "^21.2.10",
+    "compass-mixins": "^0.12.12",
+    "core-js": "^3.8.3",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.5",
+    "vue-simple-alert": "^1.1.1",
+    "vue-swal": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "^5.0.1",
+    "@vue/cli-service": "^5.0.1",
+    "cypress": "^9.5.1",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
